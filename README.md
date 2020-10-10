@@ -76,6 +76,9 @@
       display: block;
       height: auto;
       margin: 0 auto;
+      filter: gray;
+      -webkit-filter: grayscale(1); 
+      filter: grayscale(1); 
     }
 
     #img-div {
